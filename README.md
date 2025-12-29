@@ -1,2 +1,3 @@
 # Shreyash
-This Is My First Git Repositary
+This Is My First Git Repositary.
+Author-Shreyash
